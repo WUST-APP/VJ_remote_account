@@ -1,0 +1,282 @@
+{
+    LightOJ :
+    {
+    	contextNumber : 1, // default value is 1
+    	accounts :
+    	[
+    		{
+    			id : "id1@gmail.com",
+    			password : "123456",
+    			isPublic : true // default value is true
+    		},
+    		{
+    			id : "id2@gmail.com",
+    			password : "123456" 
+    		},
+			{
+				id : "2545602746@qq.com",
+				password : "8trt7fmu"
+			}
+    	]
+    },
+
+    HUST :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "20161313",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    POJ :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    ZOJ :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    SPOJ :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    UVALive :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    UVA :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    SGU :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "010203",
+                password : "123456"
+            },
+			{
+				id : "2545602746@qq.com",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    HDU :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy22",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    HYSBZ :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    CodeForces :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "iuniqe",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    Aizu :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    NBUT :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    FZU :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    CSU :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    SCU :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            }
+        ]
+    },
+
+    UESTC :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "1234567890qwertyuiopasdfghjklzxcvbnm1234" // Encrypted password in browser side
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    URAL :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {  id : "12345AB"  },
+            {  id : "67890CD"  },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    },
+
+    ACdream :
+    {
+        contextNumber : 5,
+        accounts :
+        [
+            {
+                id : "id1",
+                password : "123456"
+            },
+			{
+				id : "dmxy",
+				password : "qazwsx"
+			}
+        ]
+    }
+
+
+}
