@@ -284,7 +284,8 @@
 				password : "qazwsx"
 			}
         ]
-    }
+    },
+	
     LeetCode :
 	{
 	    contextNumber : 5,
@@ -295,5 +296,18 @@
 			   password : "123456"
 			}
 	    [  
-    }
+    },
+	
+	ECNU :
+	{
+	    contextNumber : 5,
+		accounts :
+		[
+		    {
+			    id : "20161313",
+				password : "123456"
+			}
+		]
+	}
+	           
 }
